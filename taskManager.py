@@ -293,10 +293,12 @@ def user_menu():
 users = read_users()
 print("Welcome to Task Manager!")
 
-while True:
-    username = validate_credentials(users)
-    print(f"Welcome {username}!")
+# Validate user credentials for login section
+username = validate_credentials(users)
+print(f"Welcome {username}!")
 
+# Continue to display the menu until the user chooses to exit
+while True:
     if is_admin(username):
         # admin menu displayed if username is admin
         admin_menu()
@@ -313,7 +315,7 @@ while True:
             print("Reports are being generated...")
             generate_task_overview()
             generate_user_overview()
-            print("Reports generated. ")
+            print("Reports generated.")
         elif menu == 'ds':
             display_statistics()
         elif menu == 'e':
@@ -337,7 +339,7 @@ while True:
             break
         else:
             print("You have made a wrong choice. Please try again.")
-
+            
 # sources used
 # https://www.simplilearn.com/tutorials/python-tutorial/python-check-if-file-exists
 # https://builtin.com/data-science/python-list
