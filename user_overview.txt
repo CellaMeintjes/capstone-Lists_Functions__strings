@@ -1,0 +1,20 @@
+Total number of users registered with taskmanager.py: 4
+Total number of tasks that have been generated and tracked using task_manager.py: 5
+
+User: admin
+Total number of tasks assigned to that user: 2
+Percentage of the total number of tasks assigned to that user: 40.00%
+Percentage of tasks assigned to that user that have been completed: 0.00%
+Percentage of tasks that must still be completed: 100.00%
+
+User: marcelle
+Total number of tasks assigned to that user: 2
+Percentage of the total number of tasks assigned to that user: 40.00%
+Percentage of tasks assigned to that user that have been completed: 50.00%
+Percentage of tasks that must still be completed: 50.00%
+
+User: hyperion
+Total number of tasks assigned to that user: 1
+Percentage of the total number of tasks assigned to that user: 20.00%
+Percentage of tasks assigned to that user that have been completed: 0.00%
+Percentage of tasks that must still be completed: 100.00%

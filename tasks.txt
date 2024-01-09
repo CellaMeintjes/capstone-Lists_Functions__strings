@@ -1,0 +1,5 @@
+admin, Register Users with TaskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using using this program., 2019-10-10, 2020-10-20, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-10, 2019-10-25, No
+marcelle, Capstone project Task 24, Create a simple task management system that stores data in text files., 2023-10-22, 2023-08-01, No
+hyperion, Hello, check to see if code calculates tasks correctly., 2023-10-23, 2023-11-10, No
+marcelle, hello, hello world, 2023-10-23, 2024-12-22, Yes
